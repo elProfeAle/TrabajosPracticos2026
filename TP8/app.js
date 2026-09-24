@@ -1,4 +1,4 @@
-/*
+/* Hola
 Ejercicio 3: Mensaje de bienvenida v2
 Extender el ejercicio anterior usando otra variable nombreUsuario:
 Si el nombre es "Nahuel" o "Marcos", el párrafo debe mostrar: "Bienvenido " + nombreUsuario + " ¿cómo estás?".
